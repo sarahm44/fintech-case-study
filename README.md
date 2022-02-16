@@ -5,7 +5,7 @@ FinTech Assignment 1: Case Study on Immutable
 ## Overview and Origin
 
 ### Name, incorporation date and founders
-Immutable provides a blockchain infrastructure that transforms digital asset ownership in the video-gaming industry (Reference: [Crunchbase, Immutable](https://www.crunchbase.com/organization/immutable)). It was founded in June 2018 and is based in Sydney, Australia by brothers James and Robbie Ferguson.
+Immutable provides a blockchain infrastructure that transforms digital asset - also know as an NFT (non-fungible token) - ownership in the video-gaming industry (Reference: [Crunchbase, Immutable](https://www.crunchbase.com/organization/immutable)). It was founded in June 2018 and is based in Sydney, Australia by brothers James and Robbie Ferguson.
 
 ### The idea for the company
 The company was originally named “Fuel Games” and is a gaming and digital asset technology business, with a focus on gaming on blockchain, and trade of NFTs (non-fungible tokens) (Reference: [Smart Company, Gaming startup Immutable scores $82 million for NFT trading tech](https://www.smartcompany.com.au/startupsmart/news/immutable-82-million-nft-trading-tech/)).
@@ -27,7 +27,7 @@ Investors include:
 
 (Reference: [Smart Company](https://www.smartcompany.com.au/startupsmart/news/immutable-82-million-nft-trading-tech/))
 
-## Business Activities:
+## Business Activities
 
 ### Problems Immutable aims to solve
 Immutable aims to solve some problems which currently exist in the NFT landscape. These issues relate to NFT trading occurring on the Ethereum blockchain. They include include low scalability, issues with user experience, the expense of trading NFTs, slow developer experience, illiquidity issues and that “the only existing scaling solutions compromise on the most important thing — the security and user-base of Ethereum”, per co-founder Robbie Ferguson (References: [Immutable X Whitepaper](https://support.immutable.com/hc/en-us/articles/4405227590799) and [Smart Company](https://www.smartcompany.com.au/startupsmart/news/immutable-82-million-nft-trading-tech/))
