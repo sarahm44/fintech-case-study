@@ -1,5 +1,3 @@
-# assignment-1
-FinTech Assignment 1: Case Study on Immutable
 # FINTECH CASE STUDY: IMMUTABLE
 
 ## Overview and Origin
