@@ -1,5 +1,5 @@
 # FINTECH CASE STUDY: IMMUTABLE
-
+![alt""](https://github.com/sarahm44/fintech-case-study/blob/main/Immutable%20logo.png)
 ## Table of Contents
 - [Overview and Origin](#overview-and-origin)
   * [Name, incorporation date and founders](#name-incorporation-date-and-founders)
@@ -8,7 +8,7 @@
 - [Business Activities](#business-activities)
   * [Problems Immutable aims to solve](#problems-immutable-aims-to-solve)
   * [Intended customers](#intended-customers)
-  * [Immutable’s unique solution](#immutable-s-unique-solution)
+  * [Immutable’s unique solution](#immutables-unique-solution)
   * [Technologies Immutable is using](#technologies-immutable-is-using)
 - [Landscape](#landscape)
   * [The relevant FinTech domain](#the-relevant-fintech-domain)
