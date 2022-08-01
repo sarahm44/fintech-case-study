@@ -1,5 +1,25 @@
 # FINTECH CASE STUDY: IMMUTABLE
 
+## Table of Contents
+- [Overview and Origin](#overview-and-origin)
+  * [Name, incorporation date and founders](#name-incorporation-date-and-founders)
+  * [The idea for the company](#the-idea-for-the-company)
+  * [Funding](#funding)
+- [Business Activities](#business-activities)
+  * [Problems Immutable aims to solve](#problems-immutable-aims-to-solve)
+  * [Intended customers](#intended-customers)
+  * [Immutable’s unique solution](#immutable-s-unique-solution)
+  * [Technologies Immutable is using](#technologies-immutable-is-using)
+- [Landscape](#landscape)
+  * [The relevant FinTech domain](#the-relevant-fintech-domain)
+  * [Major NFT trends and innovations](#major-nft-trends-and-innovations)
+  * [Other major companies in NFT gaming](#other-major-companies-in-nft-gaming)
+- [Results](#results)
+  * [Business impact](#business-impact)
+  * [Core metrics for success](#core-metrics-for-success)
+  * [Competitors](#competitors)
+- [Recommendations](#recommendations)
+
 ## Overview and Origin
 
 ### Name, incorporation date and founders
