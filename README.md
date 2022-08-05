@@ -1,4 +1,4 @@
-# FINTECH CASE STUDY: IMMUTABLE
+# Fintech Case Study: Immutable
 ![alt""](https://github.com/sarahm44/fintech-case-study/blob/main/Immutable%20logo.png)
 ## Table of Contents
 - [Overview and Origin](#overview-and-origin)
